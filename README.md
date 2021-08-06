@@ -1,4 +1,4 @@
-# Aproximacion_4
+# Resultado 2
 
 Implementación de un modelo lineal mixto para medir el efecto de la aplicación de medidas sanitarias en países de la Unión Europea y Latinoamérica.
 
